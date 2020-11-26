@@ -1,0 +1,7 @@
+C:\Users\Beto\source\repos\Ejercicios_While_DoWhile\Ejercicios_While_DoWhile\bin\Debug\Ejercicios_While_DoWhile.exe.config
+C:\Users\Beto\source\repos\Ejercicios_While_DoWhile\Ejercicios_While_DoWhile\bin\Debug\Ejercicios_While_DoWhile.exe
+C:\Users\Beto\source\repos\Ejercicios_While_DoWhile\Ejercicios_While_DoWhile\bin\Debug\Ejercicios_While_DoWhile.pdb
+C:\Users\Beto\source\repos\Ejercicios_While_DoWhile\Ejercicios_While_DoWhile\obj\Debug\Ejercicios_While_DoWhile.csprojAssemblyReference.cache
+C:\Users\Beto\source\repos\Ejercicios_While_DoWhile\Ejercicios_While_DoWhile\obj\Debug\Ejercicios_While_DoWhile.csproj.CoreCompileInputs.cache
+C:\Users\Beto\source\repos\Ejercicios_While_DoWhile\Ejercicios_While_DoWhile\obj\Debug\Ejercicios_While_DoWhile.exe
+C:\Users\Beto\source\repos\Ejercicios_While_DoWhile\Ejercicios_While_DoWhile\obj\Debug\Ejercicios_While_DoWhile.pdb
